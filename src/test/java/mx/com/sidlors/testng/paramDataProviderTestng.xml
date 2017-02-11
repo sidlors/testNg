@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DataProviderParameterExampleSuite" parallel="false">
+  <test name="UnitLevel">
+    <classes>
+      <class name="mx.com.sidlors.testng.DataProviderParametersExample"/>
+    </classes>
+  </test>
+  
+  <test name="AcceptanceLevel">
+    <classes>
+      <class name="mx.com.sidlors.testng.DataProviderParametersAcceptanceExample"/>
+    </classes>
+  </test>
+  
+  <test name="IntegrationLevel">
+    <classes>
+      <class name="mx.com.sidlors.testng.DataProviderParametersIntegrationExample"/>
+    </classes>
+  </test>
+</suite>

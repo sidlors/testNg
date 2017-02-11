@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DataProviderParameterEmpSuite" parallel="false">
+  <test name="EmpTest">
+    <classes>
+      <class name="mx.com.sidlors.testng.DataProviderParametersEmployeeExample"/>
+    </classes>
+  </test>  
+</suite>
